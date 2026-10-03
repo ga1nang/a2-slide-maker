@@ -1,0 +1,7 @@
+.venv-pptx/
+*.pdf
+*.pptx
+*.crdownload
+figures/*.jpg
+figures/*.jpeg
+figures/*.webp
